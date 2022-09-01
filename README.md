@@ -31,3 +31,5 @@ python manage.py createsuperuser
 ```sh
 127.0.0.1:8000
 ```
+users : adminCEO
+password : 792b3b58
